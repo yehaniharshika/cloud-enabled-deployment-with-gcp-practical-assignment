@@ -1,4 +1,4 @@
-# Cloud Enabled Deployment In Action with AWS
+# Cloud Enabled Deployment In Action with AWS and GCP 🚀
 
 This repository contains four projects:
 
@@ -18,6 +18,15 @@ This repository contains four projects:
   - DELETE /courses/{id}
 - Default port: 8081
 - Configure MySQL settings
+
+---
+
+#### GCP MySQL Configuration
+
+  - Create a MySQL instance in Google Cloud SQL.
+  
+#### 📺 Demo Video
+[Watch the Demo Video](https://drive.google.com/drive/folders/19hdMuU_gznUOYT4QjVscdT5nv807NOGG?usp=drive_link) here
 
 ### 2. student-service
 - Document: Student(registrationNumber, fullName, address, contact, email)
@@ -50,3 +59,8 @@ This repository contains four projects:
 
 - Backend: run `mvn -q -e -DskipTests package` at repo root to build services.
 - Frontend: run `npm install` then `npm run dev` inside `frontend-app`.
+
+## License
+© 2025 All Right Reserved Created By Yehani Harshika
+<br/>
+This project is licensed under the [MIT](License.txt) license
