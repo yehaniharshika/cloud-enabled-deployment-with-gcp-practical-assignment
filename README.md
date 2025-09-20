@@ -1,6 +1,5 @@
 # Cloud Enabled Deployment In Action with AWS & GCP
 
----
 
 This assignment outlines the steps to connect course-service Spring Boot application to a MySQL database hosted on Google Cloud Platform (GCP).
 
@@ -27,7 +26,7 @@ This repository contains four projects:
 
 ---
 
-#### GCP MySQL Configuration
+### ⚙️ GCP MySQL Configuration
 
 **01.Clone the Project Repository.**
 ```sh
@@ -56,7 +55,7 @@ spring.profiles.active=gcp
 
 **06. Add sample course data to DB**
 
-#### 📺 Demo Video
+### 📺 Demo Video
 This video demonstrates the Practical Assignment in action, showing how the project is deployed and connected with GCP MySQL
 
 [Watch the Demo Video](https://drive.google.com/drive/folders/19hdMuU_gznUOYT4QjVscdT5nv807NOGG?usp=drive_link) here
@@ -96,6 +95,13 @@ This video demonstrates the Practical Assignment in action, showing how the proj
 
 - Backend: run `mvn -q -e -DskipTests package` at repo root to build services.
 - Frontend: run `npm install` then `npm run dev` inside `frontend-app`.
+
+---
+
+## 👩🏻‍🎓 Student Information
+- Full Name: H.M. Yehani Harshika Pamunuwa
+-  Email Address: pamunuwayehaniharshika@gmail.com
+-  Student Number: 2301671057
 
 ---
 
